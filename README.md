@@ -29,6 +29,9 @@ Installation
 Demo Presentation
 - [Google Slides Link](https://docs.google.com/presentation/d/1SbI4sYOhiyMn1J2IVp4KPNsDqy6N7ybf_9hEfQSdnAI/present?usp=sharing)
 
+How to use our app: Watch this video,
+https://go.screenpal.com/watch/cT6hImnD7RO
+
 Team
 - Sherina Alhameli
 - Fatima Alhameli
